@@ -86,5 +86,3 @@ The dataset was collected via Reddit’s API using `PRAW`. It includes **1127 co
 
 MIT License — open for educational use and adaptation.  
 Please respect Reddit's [API terms](https://www.reddit.com/dev/api/) if extending this work.
-
----
