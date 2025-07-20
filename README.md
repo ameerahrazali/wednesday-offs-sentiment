@@ -57,7 +57,7 @@ The dataset was collected via Reddit’s API using `PRAW`. It includes **1127 co
 
 ---
 
-## 💡 Highlights & Findings
+## Highlights & Findings
 
 - Most top-voted comments were **positive or neutral**, suggesting support for the idea.
 - Frequent themes: mental health, burnout, productivity, and better pacing of the week.
