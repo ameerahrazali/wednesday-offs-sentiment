@@ -1,4 +1,4 @@
-# Wednesdays Off — The Unpopular Opinion That Wasn’t?
+# Hump Day: Yay or Nay?
 
 > A lighthearted NLP project exploring Reddit’s sentiment about taking Wednesdays off. Because who says weekends should only hug Fridays?
 
